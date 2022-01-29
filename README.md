@@ -8,6 +8,7 @@
 
 - [Taro 正式发布 3.4 版本: 全面支持 Preact & Vue 3.2](https://mp.weixin.qq.com/s/vo23ZhOZsuZWR09eBjsD_A)
 - [taro-vue使用总结](https://mp.weixin.qq.com/s/ThXWRayXTWsjzBTQobES8Q)
+- [Taro升级](http://blog.ilibrary.me/2021/02/22/taro%E5%8D%87%E7%BA%A7)
 
 ## Node.js
 
@@ -32,6 +33,11 @@
 
 - [Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？](https://mp.weixin.qq.com/s/EwVYHoSoXa7OFCS00wi-ng)
 
+## 设计模式
+
+- [降低前端业务复杂度新视角：状态机范式](https://juejin.cn/post/7045090471852376101)
+
 ## 架构
 
 - [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
+- [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
