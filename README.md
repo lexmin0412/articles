@@ -9,10 +9,13 @@
 - [Taro 正式发布 3.4 版本: 全面支持 Preact & Vue 3.2](https://mp.weixin.qq.com/s/vo23ZhOZsuZWR09eBjsD_A)
 - [taro-vue使用总结](https://mp.weixin.qq.com/s/ThXWRayXTWsjzBTQobES8Q)
 - [Taro升级](http://blog.ilibrary.me/2021/02/22/taro%E5%8D%87%E7%BA%A7)
+- [Taro 版本升级权威指南](https://mp.weixin.qq.com/s/ai80vbGf2vsXmWQj_XReGA)
+- [使用 taro-deploy 自动化构建发布 taro 小程序](https://juejin.cn/post/6872675384966512647)
 
 ## Node.js
 
 - [在 Node.js 中引入 Golang ，会让它更快吗？](https://mp.weixin.qq.com/s/ITUKqVn7JSJF-so8GMUy9Q)
+- [Node.js日志神器（winston）](https://juejin.cn/post/6865926810061045774)
 
 ## CSS
 
@@ -28,6 +31,7 @@
 
 - [超硬核｜带你畅游在 Webpack 插件开发者的世界](https://juejin.cn/post/7047777251949019173)
 - [前端模块依赖关系分析与应用](https://mp.weixin.qq.com/s/9L7xUxZe3x9Owp-ABrzJhQ)
+- [Webpack5 跨应用代码共享 - Module Federation](https://juejin.cn/post/6872505128939683848)
 
 ## 工程化
 
