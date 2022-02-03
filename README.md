@@ -21,6 +21,7 @@
 - [京喜首页（微信购物入口）跨端开发与优化实践](https://taro-club.jd.com/topic/1036/%E4%BA%AC%E5%96%9C%E9%A6%96%E9%A1%B5-%E5%BE%AE%E4%BF%A1%E8%B4%AD%E7%89%A9%E5%85%A5%E5%8F%A3-%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%8E%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5)
 - [为何我们要用 React 来写小程序 - Taro 诞生记](https://jelly.jd.com/article/6006b1055b6c6a01506c880b)
 - [Taro Next 架构揭秘 | GMTC《小程序跨框架开发的探索与实践》万字无删减](https://juejin.cn/post/6844904036743774216)
+- [Taro 源码解读 - @tarojs/taro 篇](https://juejin.cn/post/6906417392931307534)
 
 ## Node.js
 
