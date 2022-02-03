@@ -52,11 +52,15 @@
 
 - [WebAssembly 不完全指北](https://juejin.cn/post/6844903895110533133)
 
-## 架构
+## 小程序
 
-- [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
-- [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
+- [小程序框架原理之渲染流程及通信流程](https://juejin.cn/post/6896370758407159821)
 
 ## 客户端开发
 
 - [Flutter 跨平台演进及架构开篇](http://gityuan.com/flutter/)
+
+## 架构
+
+- [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
+- [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
