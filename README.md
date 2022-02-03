@@ -15,6 +15,7 @@
 - [Taro升级](http://blog.ilibrary.me/2021/02/22/taro%E5%8D%87%E7%BA%A7)
 - [Taro 版本升级权威指南](https://mp.weixin.qq.com/s/ai80vbGf2vsXmWQj_XReGA)
 - [使用 taro-deploy 自动化构建发布 taro 小程序](https://juejin.cn/post/6872675384966512647)
+- [京喜首页（微信购物入口）跨端开发与优化实践](https://taro-club.jd.com/topic/1036/%E4%BA%AC%E5%96%9C%E9%A6%96%E9%A1%B5-%E5%BE%AE%E4%BF%A1%E8%B4%AD%E7%89%A9%E5%85%A5%E5%8F%A3-%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%8E%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5)
 
 ## Node.js
 
@@ -30,6 +31,7 @@
 
 - [剖析 npm、yarn 与 pnpm 依赖管理逻辑](https://mp.weixin.qq.com/s/iamyK9TNu2BKrHXP0oQoBA)
 - [为什么 vue 源码以及生态仓库要迁移 pnpm?](https://mp.weixin.qq.com/s/FZwq1yrlfVSyEC-3WTbHIw)
+- [npm私服搭建—verdaccio方案及其最佳实践](https://www.jianshu.com/p/d32ce7e9d4d8)
 
 ## 构建工具
 
@@ -44,6 +46,10 @@
 ## 设计模式
 
 - [降低前端业务复杂度新视角：状态机范式](https://juejin.cn/post/7045090471852376101)
+
+## WebAssembly
+
+- [WebAssembly 不完全指北](https://juejin.cn/post/6844903895110533133)
 
 ## 架构
 
