@@ -3,6 +3,8 @@
 ## React
 
 - [不用一行代码，搞懂React调度器原理](https://mp.weixin.qq.com/s/J1MnHkVKfgeNcuce9M7zig)
+- [不要再问React Hooks能否取代Redux了](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/100790044)
+- [React Hooks 越来越火了，它会取代传统的 Redux 吗？](https://segmentfault.com/a/1190000019913694)
 
 ## Vue.js
 
@@ -17,6 +19,8 @@
 - [Taro 版本升级权威指南](https://mp.weixin.qq.com/s/ai80vbGf2vsXmWQj_XReGA)
 - [使用 taro-deploy 自动化构建发布 taro 小程序](https://juejin.cn/post/6872675384966512647)
 - [京喜首页（微信购物入口）跨端开发与优化实践](https://taro-club.jd.com/topic/1036/%E4%BA%AC%E5%96%9C%E9%A6%96%E9%A1%B5-%E5%BE%AE%E4%BF%A1%E8%B4%AD%E7%89%A9%E5%85%A5%E5%8F%A3-%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%8E%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5)
+- [为何我们要用 React 来写小程序 - Taro 诞生记](https://jelly.jd.com/article/6006b1055b6c6a01506c880b)
+- [Taro Next 架构揭秘 | GMTC《小程序跨框架开发的探索与实践》万字无删减](https://juejin.cn/post/6844904036743774216)
 
 ## Node.js
 
@@ -73,3 +77,7 @@
 - [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
 - [打造前端监控系统](https://juejin.cn/post/6936977868173869063?utm_source=gold_browser_extension)
 - [关于如何打造前端技术中台的思考和探索](https://juejin.cn/post/6881804492203884557)
+
+## 杂谈
+
+- [构建大型前端业务项目的一点经验](https://juejin.cn/post/7016948081321050148?utm_source=gold_browser_extension)
