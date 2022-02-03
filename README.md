@@ -70,3 +70,4 @@
 - [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
 - [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
 - [打造前端监控系统](https://juejin.cn/post/6936977868173869063?utm_source=gold_browser_extension)
+- [关于如何打造前端技术中台的思考和探索](https://juejin.cn/post/6881804492203884557)
