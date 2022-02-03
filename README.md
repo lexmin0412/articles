@@ -7,6 +7,7 @@
 ## Vue.js
 
 - [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.cn/post/6844903913410314247)
+- [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622)
 
 ## Taro
 
@@ -68,3 +69,4 @@
 
 - [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
 - [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
+- [打造前端监控系统](https://juejin.cn/post/6936977868173869063?utm_source=gold_browser_extension)
