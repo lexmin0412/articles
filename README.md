@@ -4,6 +4,10 @@
 
 - [不用一行代码，搞懂React调度器原理](https://mp.weixin.qq.com/s/J1MnHkVKfgeNcuce9M7zig)
 
+## Vue.js
+
+- [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.cn/post/6844903913410314247)
+
 ## Taro
 
 - [Taro 正式发布 3.4 版本: 全面支持 Preact & Vue 3.2](https://mp.weixin.qq.com/s/vo23ZhOZsuZWR09eBjsD_A)
