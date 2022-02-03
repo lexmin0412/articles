@@ -65,6 +65,7 @@
 ## 测试
 
 - [京喜前端自动化测试之路（小程序篇）](https://jelly.jd.com/article/5f0285b9b22c54014e9754d9)
+- [Jest前端自动化测试入门](https://juejin.cn/post/6844904114753634317#heading-28)
 
 ## 架构
 
