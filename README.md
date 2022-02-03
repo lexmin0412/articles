@@ -60,6 +60,10 @@
 
 - [Flutter 跨平台演进及架构开篇](http://gityuan.com/flutter/)
 
+## 测试
+
+- [京喜前端自动化测试之路（小程序篇）](https://jelly.jd.com/article/5f0285b9b22c54014e9754d9)
+
 ## 架构
 
 - [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
