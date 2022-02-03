@@ -55,3 +55,7 @@
 
 - [前端领域的 “干净架构”](https://mp.weixin.qq.com/s/sX7QzQ_NgOSzhgCQv4ZN_A)
 - [前端，何不尝试一下『插件化』开发](https://juejin.cn/post/6844904118591422472?utm_source=gold_browser_extension)
+
+## 客户端开发
+
+- [Flutter 跨平台演进及架构开篇](http://gityuan.com/flutter/)
