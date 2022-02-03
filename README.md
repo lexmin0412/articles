@@ -46,6 +46,7 @@
 ## 设计模式
 
 - [降低前端业务复杂度新视角：状态机范式](https://juejin.cn/post/7045090471852376101)
+- [如何利用AOP+IOC思想解构前端项目开发](https://juejin.cn/post/6888677412280729613)
 
 ## WebAssembly
 
