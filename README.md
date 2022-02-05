@@ -48,6 +48,7 @@
 ## 工程化
 
 - [Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？](https://mp.weixin.qq.com/s/EwVYHoSoXa7OFCS00wi-ng)
+- [AST 与前端工程化实战](https://juejin.cn/post/6844903910960791566#heading-13)
 
 ## 设计模式
 
