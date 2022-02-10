@@ -83,3 +83,7 @@
 ## 杂谈
 
 - [构建大型前端业务项目的一点经验](https://juejin.cn/post/7016948081321050148?utm_source=gold_browser_extension)
+
+## 技术趋势
+
+- [2021 大前端技术回顾及未来展望](https://mp.weixin.qq.com/s/HfZDrrqDNUVpnU-aegKxcg)
