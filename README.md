@@ -32,6 +32,7 @@
 
 - [CSS in JS 新秀：vanilla-extract 浅析](https://mp.weixin.qq.com/s/WAr1EuU2_9SNS87hJZkOOg)
 - [深入浅出 CSS 动画](https://mp.weixin.qq.com/s/L8dehiIAP_JJCY_hKXMsBA)
+- [拜托，css这样实现多行文本“展开收起” 超酷的好吧](https://juejin.cn/post/7065207121175904264)
 
 ## 包管理
 
