@@ -90,3 +90,4 @@
 ## 技术趋势
 
 - [2021 大前端技术回顾及未来展望](https://mp.weixin.qq.com/s/HfZDrrqDNUVpnU-aegKxcg)
+- [2021 年 JavaScript 明星项目](https://www.oschina.net/news/181485/2021-js-risingstars?utm_source=wechat&utm_medium=zaobao)
