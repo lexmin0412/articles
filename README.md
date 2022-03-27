@@ -91,3 +91,7 @@
 
 - [2021 大前端技术回顾及未来展望](https://mp.weixin.qq.com/s/HfZDrrqDNUVpnU-aegKxcg)
 - [2021 年 JavaScript 明星项目](https://www.oschina.net/news/181485/2021-js-risingstars?utm_source=wechat&utm_medium=zaobao)
+
+## 其他
+
+- [谷歌内部考核制度 OKR 是怎样的？ - 李会军的回答 - 知乎](https://www.zhihu.com/question/22471467/answer/220121306)
